@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: . 
+Main-Class: init
+Name: minimon
+Implementation-Title: lousybench
+Created-By: Oleg Bobukh
